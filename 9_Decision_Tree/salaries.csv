@@ -1,0 +1,1001 @@
+company,job,degree,salary_more_then_100k
+Tesla,Marketing Lead,PhD,1
+Amazon,HR Specialist,Masters,1
+Apple,Sales Executive,PhD,0
+Tesla,Sales Executive,PhD,1
+Microsoft,Sales Executive,Bachelors,0
+IBM,Product Manager,Bachelors,1
+Apple,Data Scientist,PhD,0
+Apple,Product Manager,Bachelors,1
+Tesla,Data Scientist,Masters,1
+Facebook,Consultant,Masters,1
+Microsoft,Product Manager,Bachelors,1
+Tesla,Product Manager,Masters,0
+Microsoft,Marketing Lead,Bachelors,0
+Microsoft,Software Engineer,PhD,0
+IBM,Product Manager,PhD,0
+Apple,Marketing Lead,Masters,1
+Amazon,Business Manager,Bachelors,0
+IBM,Software Engineer,Bachelors,1
+IBM,Consultant,Masters,1
+Microsoft,Product Manager,PhD,1
+Netflix,HR Specialist,Masters,0
+Apple,Sales Executive,PhD,1
+Facebook,Business Manager,Bachelors,1
+IBM,Business Manager,PhD,0
+Amazon,Consultant,Masters,1
+Netflix,Marketing Lead,Bachelors,1
+Netflix,Business Manager,Masters,0
+Facebook,Software Engineer,Masters,1
+IBM,Product Manager,PhD,0
+Amazon,Product Manager,Masters,0
+Apple,HR Specialist,PhD,0
+Google,Consultant,Bachelors,0
+Amazon,Sales Executive,PhD,0
+Facebook,Marketing Lead,Bachelors,0
+Netflix,Sales Executive,PhD,1
+Apple,Business Manager,Masters,1
+Amazon,Consultant,PhD,1
+Google,HR Specialist,PhD,0
+Google,Sales Executive,Bachelors,0
+Microsoft,Software Engineer,Masters,1
+Microsoft,Product Manager,PhD,0
+Tesla,Business Manager,Masters,0
+Facebook,HR Specialist,PhD,1
+IBM,Sales Executive,PhD,0
+Amazon,Marketing Lead,Masters,1
+Amazon,Software Engineer,PhD,1
+IBM,Software Engineer,Masters,0
+Tesla,Sales Executive,PhD,0
+Netflix,Product Manager,Bachelors,1
+Netflix,Sales Executive,Masters,0
+Tesla,Business Manager,PhD,0
+Netflix,Sales Executive,PhD,1
+Microsoft,Software Engineer,Bachelors,0
+Amazon,HR Specialist,Masters,1
+Tesla,Sales Executive,PhD,1
+Amazon,Product Manager,Bachelors,0
+IBM,Consultant,PhD,0
+Google,HR Specialist,Masters,0
+Microsoft,Marketing Lead,PhD,0
+Apple,Data Scientist,PhD,0
+Microsoft,Sales Executive,PhD,1
+Tesla,Product Manager,PhD,0
+Apple,HR Specialist,Bachelors,1
+Google,Product Manager,Bachelors,1
+Tesla,Marketing Lead,Masters,1
+Facebook,Software Engineer,Bachelors,1
+Amazon,Product Manager,Bachelors,0
+Google,HR Specialist,Masters,1
+Amazon,Product Manager,Bachelors,1
+Netflix,Product Manager,Bachelors,0
+Facebook,Product Manager,Masters,0
+Facebook,Business Manager,Masters,1
+Google,Business Manager,Masters,0
+Facebook,Software Engineer,PhD,0
+Apple,Sales Executive,PhD,0
+Facebook,Product Manager,Masters,0
+Amazon,Marketing Lead,Masters,1
+Amazon,Sales Executive,Masters,1
+Tesla,Marketing Lead,PhD,1
+Amazon,Sales Executive,PhD,0
+Tesla,Software Engineer,Bachelors,0
+Amazon,Product Manager,Bachelors,0
+Apple,Product Manager,Masters,0
+IBM,Data Scientist,PhD,0
+Tesla,Marketing Lead,PhD,1
+Microsoft,Sales Executive,PhD,0
+Netflix,Sales Executive,Masters,1
+Google,Consultant,Bachelors,0
+Amazon,Consultant,Masters,0
+Facebook,Business Manager,Bachelors,0
+IBM,Data Scientist,Bachelors,1
+Amazon,HR Specialist,Masters,1
+Facebook,Consultant,Bachelors,1
+Netflix,HR Specialist,Bachelors,0
+Netflix,Business Manager,PhD,0
+Netflix,Business Manager,Bachelors,1
+Facebook,Business Manager,Masters,0
+Amazon,Marketing Lead,Masters,1
+Netflix,Marketing Lead,Bachelors,0
+Apple,Software Engineer,PhD,0
+Tesla,Software Engineer,PhD,0
+Facebook,Business Manager,Bachelors,0
+Facebook,Data Scientist,Bachelors,1
+Amazon,Sales Executive,Masters,0
+Facebook,Marketing Lead,Bachelors,0
+Facebook,Data Scientist,PhD,0
+Netflix,Product Manager,Bachelors,0
+Amazon,Marketing Lead,Masters,1
+Netflix,Marketing Lead,Masters,1
+Tesla,Software Engineer,Masters,1
+IBM,Sales Executive,Masters,1
+Tesla,Sales Executive,Masters,0
+IBM,Consultant,Bachelors,1
+Netflix,HR Specialist,Bachelors,0
+Tesla,HR Specialist,Bachelors,0
+Amazon,HR Specialist,Bachelors,1
+Google,HR Specialist,Masters,0
+Netflix,Product Manager,PhD,1
+IBM,Product Manager,Bachelors,0
+Apple,Marketing Lead,PhD,1
+IBM,Business Manager,Bachelors,1
+Apple,Software Engineer,Bachelors,1
+Facebook,Software Engineer,PhD,1
+Tesla,HR Specialist,Masters,1
+Apple,Marketing Lead,Bachelors,0
+IBM,Consultant,Bachelors,1
+Facebook,Data Scientist,Bachelors,0
+Google,Business Manager,PhD,1
+Amazon,Marketing Lead,Masters,1
+Amazon,Business Manager,PhD,1
+Amazon,Business Manager,PhD,0
+Apple,Business Manager,Masters,0
+Google,Marketing Lead,PhD,1
+Apple,HR Specialist,Masters,0
+Tesla,Software Engineer,Bachelors,0
+Apple,Software Engineer,Masters,0
+Google,HR Specialist,Bachelors,1
+Google,Business Manager,PhD,1
+Tesla,Data Scientist,PhD,0
+Google,Sales Executive,Bachelors,0
+IBM,Marketing Lead,PhD,0
+Google,Sales Executive,Masters,1
+Amazon,Consultant,Bachelors,1
+IBM,HR Specialist,PhD,0
+IBM,Data Scientist,Bachelors,0
+Tesla,Marketing Lead,Masters,0
+Microsoft,HR Specialist,Masters,1
+Microsoft,Business Manager,PhD,1
+Google,Software Engineer,Masters,0
+IBM,Sales Executive,Bachelors,0
+Microsoft,Product Manager,Masters,0
+Microsoft,Product Manager,Bachelors,1
+Google,Data Scientist,Bachelors,0
+Microsoft,Business Manager,Masters,1
+Apple,Consultant,PhD,1
+Facebook,Sales Executive,Masters,0
+Tesla,Business Manager,Bachelors,0
+Facebook,Sales Executive,Bachelors,0
+Google,Data Scientist,Masters,1
+Amazon,Data Scientist,PhD,1
+Tesla,Consultant,PhD,1
+Google,Product Manager,Bachelors,1
+IBM,Business Manager,Bachelors,0
+Amazon,Marketing Lead,PhD,1
+Facebook,Product Manager,Masters,1
+Google,Business Manager,Bachelors,0
+IBM,Product Manager,Bachelors,1
+Tesla,Marketing Lead,PhD,1
+Tesla,Software Engineer,Masters,1
+Netflix,Software Engineer,PhD,1
+IBM,Consultant,Masters,1
+Apple,Software Engineer,Masters,1
+Microsoft,Software Engineer,Masters,0
+Amazon,HR Specialist,Bachelors,0
+IBM,Sales Executive,PhD,1
+Netflix,HR Specialist,PhD,0
+Microsoft,HR Specialist,Masters,0
+Microsoft,Consultant,Bachelors,0
+Google,HR Specialist,Bachelors,0
+Microsoft,Software Engineer,PhD,1
+Apple,Marketing Lead,Bachelors,1
+Tesla,Consultant,Bachelors,0
+Netflix,Consultant,Masters,0
+Microsoft,Data Scientist,Bachelors,0
+Google,Consultant,Masters,1
+Apple,Data Scientist,PhD,1
+Facebook,Consultant,Bachelors,0
+Tesla,Sales Executive,PhD,1
+Tesla,Software Engineer,PhD,1
+Netflix,Consultant,Bachelors,1
+Tesla,Software Engineer,Bachelors,1
+Microsoft,Software Engineer,PhD,0
+Google,Product Manager,Bachelors,1
+Tesla,Consultant,Masters,0
+Tesla,Business Manager,Masters,1
+Facebook,Product Manager,Bachelors,1
+Facebook,Business Manager,PhD,1
+Amazon,Software Engineer,Bachelors,1
+Apple,Software Engineer,Bachelors,0
+Microsoft,Product Manager,PhD,1
+Tesla,Product Manager,PhD,1
+IBM,Business Manager,Masters,1
+Tesla,Data Scientist,PhD,0
+Google,Business Manager,Masters,0
+Amazon,Product Manager,PhD,0
+Apple,Marketing Lead,Bachelors,1
+IBM,Product Manager,Masters,1
+Amazon,Marketing Lead,Masters,0
+Netflix,Sales Executive,Masters,1
+Apple,Product Manager,Bachelors,1
+Tesla,Sales Executive,Bachelors,1
+Tesla,Data Scientist,Bachelors,1
+Apple,Business Manager,Bachelors,1
+Tesla,Marketing Lead,Bachelors,1
+Microsoft,Business Manager,Masters,0
+Apple,Sales Executive,Bachelors,1
+Amazon,Marketing Lead,Masters,1
+Apple,Business Manager,Bachelors,1
+IBM,Product Manager,PhD,1
+Tesla,Software Engineer,Masters,1
+Microsoft,Sales Executive,PhD,0
+Microsoft,Business Manager,Masters,0
+Netflix,Sales Executive,PhD,0
+Amazon,HR Specialist,Bachelors,0
+Facebook,Sales Executive,Bachelors,1
+Facebook,Marketing Lead,Bachelors,1
+Apple,HR Specialist,Masters,0
+Netflix,Consultant,PhD,0
+Google,Marketing Lead,Bachelors,1
+Apple,Software Engineer,PhD,0
+Netflix,HR Specialist,PhD,1
+Amazon,Consultant,Bachelors,1
+Amazon,Product Manager,Bachelors,1
+Amazon,Sales Executive,PhD,0
+Amazon,Business Manager,Bachelors,0
+Amazon,Data Scientist,Bachelors,1
+Netflix,Sales Executive,Bachelors,1
+Netflix,Consultant,Masters,0
+Microsoft,Sales Executive,PhD,1
+IBM,Software Engineer,PhD,0
+Facebook,Product Manager,Masters,1
+Tesla,Data Scientist,PhD,0
+Amazon,HR Specialist,Bachelors,1
+Google,HR Specialist,PhD,0
+Tesla,HR Specialist,Bachelors,0
+Netflix,Consultant,Masters,0
+Google,Marketing Lead,Bachelors,0
+Google,Marketing Lead,PhD,1
+Google,Business Manager,PhD,1
+Microsoft,Data Scientist,PhD,0
+Netflix,HR Specialist,Masters,0
+Google,Marketing Lead,Masters,1
+Amazon,Consultant,PhD,1
+Apple,Business Manager,Bachelors,1
+Google,Product Manager,Masters,0
+Microsoft,Business Manager,PhD,0
+Tesla,Marketing Lead,PhD,1
+Netflix,Software Engineer,Masters,0
+IBM,Consultant,Masters,1
+Microsoft,Software Engineer,Masters,0
+Google,HR Specialist,Bachelors,1
+Netflix,Software Engineer,Bachelors,0
+Apple,HR Specialist,PhD,1
+Google,HR Specialist,Masters,0
+Microsoft,Marketing Lead,Bachelors,1
+Facebook,Software Engineer,Masters,0
+Amazon,HR Specialist,PhD,1
+IBM,Data Scientist,Bachelors,1
+Tesla,Product Manager,Bachelors,1
+Microsoft,Business Manager,Bachelors,1
+Netflix,Business Manager,PhD,1
+IBM,Marketing Lead,Masters,1
+IBM,Software Engineer,Bachelors,0
+IBM,Software Engineer,PhD,1
+Google,HR Specialist,Masters,0
+Amazon,Consultant,PhD,0
+Google,Sales Executive,Masters,0
+Netflix,HR Specialist,PhD,0
+Google,Product Manager,Masters,1
+Facebook,Data Scientist,Bachelors,1
+Amazon,Business Manager,Masters,1
+Amazon,HR Specialist,PhD,1
+Netflix,Sales Executive,PhD,0
+Tesla,Sales Executive,Masters,0
+Facebook,HR Specialist,Bachelors,0
+Microsoft,Marketing Lead,Bachelors,0
+Google,Business Manager,Masters,0
+Apple,Marketing Lead,Masters,0
+Google,Data Scientist,PhD,1
+IBM,Sales Executive,Bachelors,1
+Google,Sales Executive,Masters,1
+Microsoft,Product Manager,Bachelors,1
+Google,Data Scientist,Masters,1
+Facebook,Sales Executive,Masters,0
+Facebook,Data Scientist,Bachelors,1
+Amazon,Business Manager,Masters,1
+Netflix,Software Engineer,Masters,0
+Tesla,Sales Executive,PhD,0
+Apple,Product Manager,Masters,1
+IBM,Business Manager,Masters,0
+Google,HR Specialist,Masters,1
+Google,Data Scientist,PhD,1
+Microsoft,HR Specialist,Bachelors,0
+Netflix,Marketing Lead,PhD,0
+Facebook,Business Manager,PhD,0
+Apple,HR Specialist,Bachelors,0
+Amazon,Consultant,PhD,0
+Facebook,Consultant,Bachelors,1
+IBM,Sales Executive,PhD,0
+Netflix,Data Scientist,Bachelors,1
+IBM,Software Engineer,Masters,0
+Tesla,Business Manager,PhD,1
+Amazon,Sales Executive,PhD,0
+Tesla,Product Manager,PhD,0
+Microsoft,Marketing Lead,PhD,1
+IBM,Data Scientist,Masters,1
+Microsoft,Business Manager,PhD,0
+Google,Consultant,Masters,1
+Tesla,Business Manager,Masters,0
+Netflix,Software Engineer,Masters,0
+IBM,Consultant,Masters,0
+Apple,Software Engineer,Bachelors,0
+Amazon,Product Manager,Bachelors,1
+Facebook,Marketing Lead,PhD,0
+Netflix,Product Manager,Bachelors,0
+Netflix,Sales Executive,Bachelors,1
+Microsoft,Sales Executive,PhD,1
+Tesla,Product Manager,PhD,0
+IBM,Marketing Lead,PhD,1
+IBM,Product Manager,Bachelors,0
+Google,Marketing Lead,Bachelors,1
+Google,Marketing Lead,PhD,1
+Amazon,HR Specialist,Masters,1
+Microsoft,Consultant,PhD,0
+Netflix,Data Scientist,Masters,0
+IBM,Marketing Lead,Masters,0
+Apple,Software Engineer,PhD,0
+Microsoft,Marketing Lead,PhD,0
+Amazon,Marketing Lead,PhD,1
+Amazon,Marketing Lead,Bachelors,0
+Microsoft,HR Specialist,Masters,0
+Amazon,Consultant,Bachelors,1
+Microsoft,HR Specialist,Bachelors,0
+Facebook,Sales Executive,PhD,1
+Microsoft,HR Specialist,Bachelors,0
+Tesla,Software Engineer,PhD,0
+Microsoft,Software Engineer,Masters,0
+Amazon,HR Specialist,PhD,0
+IBM,Consultant,Bachelors,1
+Tesla,Product Manager,Bachelors,0
+Amazon,Data Scientist,PhD,1
+Google,Consultant,PhD,0
+Google,HR Specialist,Bachelors,0
+IBM,Marketing Lead,Masters,1
+IBM,Business Manager,Masters,0
+Tesla,Data Scientist,PhD,1
+Facebook,Data Scientist,Masters,1
+IBM,Software Engineer,Bachelors,1
+Google,Data Scientist,PhD,1
+Microsoft,HR Specialist,Bachelors,0
+Amazon,Marketing Lead,Bachelors,0
+Google,Marketing Lead,Masters,0
+Google,Sales Executive,PhD,1
+Facebook,Marketing Lead,PhD,1
+Tesla,Consultant,Masters,0
+Tesla,Marketing Lead,Bachelors,1
+Netflix,Software Engineer,Bachelors,0
+Facebook,Marketing Lead,Bachelors,1
+Microsoft,Sales Executive,Bachelors,0
+Tesla,Business Manager,PhD,1
+Amazon,HR Specialist,PhD,1
+IBM,Software Engineer,Masters,0
+Facebook,Consultant,Masters,0
+IBM,Business Manager,PhD,0
+Google,Software Engineer,PhD,0
+Amazon,Product Manager,Bachelors,0
+Amazon,Data Scientist,Bachelors,1
+Google,Product Manager,Masters,1
+Facebook,Marketing Lead,PhD,1
+Google,Business Manager,Masters,0
+IBM,Marketing Lead,PhD,1
+Netflix,Data Scientist,Bachelors,1
+Amazon,Software Engineer,Masters,0
+Apple,Data Scientist,Masters,1
+Apple,Sales Executive,PhD,1
+IBM,Data Scientist,Bachelors,0
+Microsoft,Sales Executive,Masters,0
+Tesla,Data Scientist,Bachelors,0
+Google,HR Specialist,Masters,0
+Google,Sales Executive,Bachelors,1
+Microsoft,Business Manager,PhD,1
+Microsoft,Marketing Lead,Masters,1
+IBM,Consultant,Masters,0
+IBM,Marketing Lead,Bachelors,0
+Microsoft,Product Manager,Bachelors,1
+Amazon,Marketing Lead,Masters,1
+IBM,Software Engineer,PhD,0
+Netflix,HR Specialist,Bachelors,1
+IBM,Data Scientist,Bachelors,1
+Google,Product Manager,Bachelors,0
+IBM,Software Engineer,Masters,0
+Amazon,Software Engineer,Masters,1
+Microsoft,Sales Executive,Masters,0
+Google,Marketing Lead,Masters,0
+IBM,Business Manager,PhD,0
+Amazon,Consultant,PhD,0
+Netflix,Business Manager,Masters,1
+IBM,Product Manager,PhD,1
+Amazon,HR Specialist,Bachelors,0
+Netflix,Business Manager,Bachelors,1
+Microsoft,Data Scientist,Bachelors,1
+IBM,Business Manager,Masters,1
+Netflix,Product Manager,Bachelors,0
+Google,Consultant,PhD,0
+Microsoft,Business Manager,Masters,1
+Google,Data Scientist,PhD,1
+Apple,Sales Executive,Bachelors,0
+Facebook,HR Specialist,Bachelors,0
+IBM,Product Manager,Bachelors,0
+Netflix,Sales Executive,Masters,1
+Facebook,Sales Executive,PhD,1
+Facebook,Sales Executive,Masters,0
+Netflix,Software Engineer,Masters,0
+Microsoft,HR Specialist,Bachelors,1
+IBM,Consultant,Masters,1
+Apple,Marketing Lead,Masters,0
+Google,HR Specialist,Bachelors,1
+Amazon,Software Engineer,Masters,1
+Google,Marketing Lead,Bachelors,0
+Amazon,HR Specialist,Bachelors,1
+Google,Sales Executive,Bachelors,0
+Netflix,Product Manager,Bachelors,1
+Apple,Marketing Lead,Masters,1
+IBM,Data Scientist,Bachelors,1
+Amazon,Data Scientist,Bachelors,1
+IBM,Business Manager,Masters,0
+IBM,Marketing Lead,Masters,1
+IBM,Product Manager,PhD,1
+Tesla,Consultant,Masters,0
+Microsoft,Software Engineer,Masters,1
+Google,Sales Executive,PhD,1
+IBM,Business Manager,Masters,0
+Google,Data Scientist,Masters,1
+IBM,Software Engineer,Masters,1
+Amazon,Software Engineer,Masters,0
+Microsoft,Sales Executive,PhD,1
+Microsoft,Consultant,Masters,0
+Netflix,Consultant,Masters,0
+Tesla,Marketing Lead,PhD,0
+Netflix,Data Scientist,Bachelors,1
+Netflix,Consultant,PhD,1
+Netflix,Product Manager,Bachelors,0
+Netflix,Consultant,PhD,0
+Netflix,Software Engineer,PhD,1
+Apple,Sales Executive,Masters,0
+Microsoft,Product Manager,Bachelors,1
+Netflix,Marketing Lead,Masters,1
+IBM,Data Scientist,Bachelors,1
+Microsoft,Marketing Lead,PhD,1
+Microsoft,Software Engineer,PhD,0
+Facebook,Product Manager,Bachelors,1
+Apple,Product Manager,Masters,1
+Netflix,Product Manager,Masters,1
+Google,Software Engineer,Masters,0
+Amazon,Software Engineer,Masters,1
+Tesla,Marketing Lead,PhD,0
+IBM,Business Manager,PhD,0
+Google,Marketing Lead,PhD,0
+Apple,Data Scientist,PhD,1
+Amazon,Sales Executive,PhD,1
+Apple,Product Manager,Masters,1
+IBM,Business Manager,Masters,1
+Microsoft,Sales Executive,Masters,0
+Amazon,Business Manager,Masters,1
+Microsoft,Consultant,PhD,0
+IBM,Consultant,PhD,1
+Google,HR Specialist,PhD,1
+IBM,Consultant,Bachelors,1
+Google,Marketing Lead,Masters,1
+Amazon,Consultant,Masters,0
+Amazon,Software Engineer,PhD,0
+Netflix,Product Manager,Masters,1
+Apple,Marketing Lead,Masters,0
+Netflix,Sales Executive,PhD,0
+Apple,HR Specialist,Bachelors,0
+Netflix,HR Specialist,Bachelors,1
+Microsoft,HR Specialist,Bachelors,0
+Amazon,Sales Executive,PhD,0
+Google,Sales Executive,Masters,1
+Apple,Sales Executive,PhD,1
+IBM,Sales Executive,PhD,0
+Apple,HR Specialist,Masters,0
+Google,HR Specialist,Bachelors,0
+Netflix,Business Manager,Bachelors,0
+Apple,Marketing Lead,PhD,0
+Tesla,Product Manager,Bachelors,1
+Microsoft,Consultant,PhD,1
+Amazon,Consultant,PhD,1
+Google,Software Engineer,Masters,0
+Amazon,HR Specialist,Masters,1
+Tesla,Software Engineer,Masters,0
+Apple,Marketing Lead,PhD,1
+Apple,Marketing Lead,Masters,1
+IBM,Software Engineer,Bachelors,0
+Tesla,HR Specialist,Bachelors,1
+Google,Software Engineer,PhD,0
+IBM,Consultant,PhD,1
+Microsoft,Business Manager,Masters,0
+IBM,Consultant,PhD,0
+Facebook,Data Scientist,PhD,1
+Google,HR Specialist,Bachelors,0
+Facebook,HR Specialist,Bachelors,1
+Tesla,Product Manager,Masters,0
+Netflix,Sales Executive,PhD,1
+Facebook,Data Scientist,PhD,1
+Microsoft,Marketing Lead,Bachelors,1
+IBM,HR Specialist,PhD,0
+Netflix,Software Engineer,Bachelors,0
+IBM,Data Scientist,Masters,0
+Facebook,Product Manager,Bachelors,0
+IBM,Marketing Lead,PhD,1
+Tesla,Sales Executive,Masters,1
+Netflix,Sales Executive,Bachelors,1
+Tesla,Product Manager,Bachelors,1
+Facebook,Product Manager,Masters,1
+Tesla,Software Engineer,Masters,1
+Microsoft,HR Specialist,Bachelors,0
+Facebook,Sales Executive,PhD,1
+Facebook,Marketing Lead,Bachelors,1
+Facebook,Data Scientist,Masters,1
+Google,Marketing Lead,Bachelors,0
+IBM,Business Manager,Masters,0
+Google,Business Manager,Masters,0
+Google,Product Manager,PhD,1
+Microsoft,Software Engineer,Masters,1
+Netflix,Business Manager,Masters,0
+IBM,Sales Executive,PhD,1
+Tesla,Marketing Lead,Masters,0
+Apple,Marketing Lead,PhD,0
+Facebook,Product Manager,PhD,0
+Tesla,HR Specialist,Masters,1
+Facebook,HR Specialist,Masters,1
+Microsoft,Data Scientist,Bachelors,0
+Facebook,Product Manager,PhD,1
+Google,Consultant,Bachelors,0
+IBM,Data Scientist,Masters,1
+Apple,Consultant,Bachelors,1
+Amazon,HR Specialist,PhD,1
+Facebook,Product Manager,Bachelors,0
+Tesla,Consultant,PhD,1
+Google,Product Manager,Masters,1
+Amazon,Product Manager,Masters,0
+Apple,HR Specialist,PhD,1
+Amazon,Data Scientist,Masters,0
+Google,Data Scientist,Masters,1
+IBM,Product Manager,Masters,0
+IBM,Business Manager,Masters,1
+Netflix,Software Engineer,PhD,1
+IBM,HR Specialist,Bachelors,0
+Netflix,Software Engineer,Bachelors,0
+Amazon,Software Engineer,Masters,0
+Microsoft,Data Scientist,Bachelors,0
+Tesla,Data Scientist,Bachelors,0
+Tesla,Business Manager,Masters,1
+Amazon,Software Engineer,Masters,0
+Facebook,Software Engineer,Bachelors,0
+Facebook,Product Manager,PhD,1
+IBM,Data Scientist,Masters,0
+Tesla,Software Engineer,PhD,1
+Tesla,Marketing Lead,Bachelors,1
+Netflix,Business Manager,Masters,1
+Microsoft,Consultant,PhD,1
+Google,Marketing Lead,Masters,1
+Facebook,Marketing Lead,Bachelors,0
+Tesla,Consultant,PhD,0
+Netflix,HR Specialist,Bachelors,0
+Apple,HR Specialist,Bachelors,1
+Netflix,Business Manager,Masters,0
+Facebook,Marketing Lead,PhD,1
+Facebook,Software Engineer,Bachelors,1
+Netflix,Data Scientist,Bachelors,1
+Google,Business Manager,PhD,1
+Amazon,Product Manager,Bachelors,0
+Facebook,Consultant,Bachelors,1
+Netflix,Marketing Lead,PhD,1
+Tesla,Business Manager,PhD,0
+Netflix,Sales Executive,PhD,0
+Microsoft,Sales Executive,PhD,1
+Amazon,HR Specialist,Masters,1
+Apple,Consultant,PhD,1
+Google,Data Scientist,Masters,1
+IBM,Software Engineer,Masters,1
+Apple,Data Scientist,Masters,1
+Amazon,Data Scientist,Bachelors,0
+Amazon,Data Scientist,Masters,0
+Amazon,Consultant,Masters,0
+Apple,Data Scientist,Bachelors,1
+Tesla,Product Manager,Bachelors,1
+Amazon,Consultant,Bachelors,1
+Netflix,Product Manager,PhD,0
+Apple,Consultant,Bachelors,1
+IBM,HR Specialist,Bachelors,1
+Amazon,Business Manager,Masters,1
+Netflix,Sales Executive,Bachelors,1
+Tesla,Data Scientist,PhD,0
+Microsoft,HR Specialist,Bachelors,1
+Tesla,Business Manager,PhD,0
+IBM,Sales Executive,Bachelors,0
+Amazon,Marketing Lead,Bachelors,0
+IBM,Software Engineer,Bachelors,1
+Apple,Product Manager,Bachelors,1
+Facebook,Marketing Lead,PhD,1
+Amazon,Consultant,PhD,1
+Facebook,Sales Executive,Masters,1
+Netflix,Marketing Lead,PhD,1
+Microsoft,Software Engineer,Bachelors,0
+Google,HR Specialist,Masters,0
+IBM,Sales Executive,Masters,0
+Tesla,Marketing Lead,Masters,0
+Microsoft,Product Manager,Bachelors,0
+Amazon,Product Manager,PhD,0
+Facebook,Business Manager,Bachelors,0
+Tesla,Marketing Lead,Masters,1
+Facebook,Data Scientist,Bachelors,0
+Apple,Marketing Lead,Bachelors,0
+Facebook,HR Specialist,PhD,0
+Apple,Sales Executive,PhD,1
+Netflix,Sales Executive,Masters,0
+Tesla,HR Specialist,Bachelors,0
+Tesla,Marketing Lead,Bachelors,1
+Google,HR Specialist,PhD,0
+Amazon,Software Engineer,Bachelors,0
+Apple,Consultant,Bachelors,0
+Google,HR Specialist,Bachelors,0
+Facebook,Product Manager,PhD,0
+Facebook,HR Specialist,Masters,0
+Google,Sales Executive,Masters,1
+Tesla,Product Manager,Bachelors,1
+Facebook,Sales Executive,Masters,1
+IBM,Business Manager,PhD,0
+Netflix,Data Scientist,PhD,1
+Netflix,Sales Executive,Masters,0
+IBM,Product Manager,Masters,0
+Google,Business Manager,Bachelors,1
+IBM,Sales Executive,Masters,0
+Apple,Software Engineer,Bachelors,0
+Apple,HR Specialist,Bachelors,1
+Google,Data Scientist,PhD,1
+IBM,Sales Executive,PhD,0
+Apple,Business Manager,PhD,1
+Tesla,Software Engineer,PhD,1
+IBM,Marketing Lead,Masters,0
+Tesla,Business Manager,PhD,0
+Apple,HR Specialist,Masters,0
+Netflix,Business Manager,PhD,0
+Apple,Software Engineer,Masters,0
+Tesla,Business Manager,Bachelors,1
+Microsoft,Software Engineer,Masters,1
+Amazon,Sales Executive,Masters,1
+Facebook,Consultant,PhD,0
+IBM,Software Engineer,Masters,1
+Microsoft,Software Engineer,Bachelors,1
+Apple,Data Scientist,Bachelors,1
+Netflix,Software Engineer,PhD,0
+Google,Software Engineer,Bachelors,1
+Apple,Marketing Lead,Masters,0
+Netflix,Consultant,Bachelors,0
+Amazon,Sales Executive,PhD,0
+Apple,HR Specialist,Masters,1
+Tesla,Data Scientist,PhD,1
+Google,Marketing Lead,Masters,0
+Netflix,Product Manager,Bachelors,0
+Netflix,Consultant,PhD,0
+Netflix,Sales Executive,PhD,0
+Amazon,Sales Executive,Masters,0
+Apple,Product Manager,PhD,0
+Amazon,HR Specialist,Masters,1
+IBM,Software Engineer,Masters,0
+Facebook,Marketing Lead,Masters,0
+Facebook,Business Manager,Masters,0
+IBM,Data Scientist,Bachelors,1
+Apple,Business Manager,Masters,1
+Tesla,Product Manager,PhD,1
+Amazon,Sales Executive,Bachelors,0
+Google,HR Specialist,PhD,1
+Netflix,Sales Executive,Bachelors,0
+Netflix,Data Scientist,Masters,1
+Apple,Sales Executive,Bachelors,1
+Tesla,Sales Executive,Bachelors,1
+Facebook,Data Scientist,PhD,1
+Facebook,Marketing Lead,PhD,1
+Netflix,Marketing Lead,Masters,0
+Apple,Data Scientist,Bachelors,1
+Amazon,HR Specialist,Bachelors,0
+Facebook,Product Manager,Bachelors,1
+Amazon,Consultant,Masters,0
+Tesla,Sales Executive,Masters,0
+Facebook,HR Specialist,Masters,0
+Facebook,Sales Executive,Masters,0
+Microsoft,Consultant,Masters,0
+Facebook,Product Manager,PhD,1
+IBM,Marketing Lead,Bachelors,0
+Google,HR Specialist,Bachelors,0
+IBM,Software Engineer,Bachelors,1
+Apple,Software Engineer,Bachelors,0
+Apple,Consultant,Bachelors,1
+Amazon,Software Engineer,Bachelors,1
+IBM,Marketing Lead,Bachelors,1
+IBM,Consultant,Bachelors,1
+IBM,Marketing Lead,PhD,0
+Tesla,Product Manager,Bachelors,1
+Facebook,Sales Executive,PhD,0
+Google,Product Manager,Masters,0
+Amazon,Product Manager,Bachelors,1
+IBM,Marketing Lead,Masters,0
+IBM,Consultant,Masters,1
+Microsoft,Consultant,Masters,1
+Amazon,Software Engineer,PhD,1
+IBM,Business Manager,Masters,1
+Amazon,Sales Executive,Masters,0
+Facebook,Marketing Lead,Masters,0
+Microsoft,Software Engineer,Bachelors,1
+Amazon,HR Specialist,Bachelors,0
+Google,Business Manager,PhD,1
+Google,Business Manager,PhD,1
+Apple,Marketing Lead,Bachelors,1
+Microsoft,Data Scientist,PhD,0
+Microsoft,Sales Executive,Bachelors,0
+Apple,Business Manager,Masters,0
+Amazon,Marketing Lead,Masters,0
+Microsoft,Marketing Lead,PhD,1
+Google,Software Engineer,Bachelors,0
+Google,HR Specialist,Bachelors,0
+IBM,Data Scientist,PhD,0
+Facebook,Sales Executive,Bachelors,1
+Microsoft,Consultant,Masters,1
+Amazon,Product Manager,PhD,0
+Apple,HR Specialist,PhD,0
+Apple,HR Specialist,Bachelors,0
+Amazon,Software Engineer,PhD,0
+Tesla,Consultant,Bachelors,1
+Netflix,Business Manager,Bachelors,1
+Facebook,Business Manager,Bachelors,0
+Apple,Software Engineer,Bachelors,0
+Microsoft,Marketing Lead,Bachelors,1
+Facebook,Business Manager,PhD,0
+Microsoft,Data Scientist,Masters,1
+Tesla,Sales Executive,Masters,0
+Google,HR Specialist,PhD,0
+Facebook,HR Specialist,PhD,0
+IBM,Data Scientist,Masters,1
+Apple,Consultant,Masters,1
+Facebook,Business Manager,Masters,0
+Facebook,HR Specialist,Masters,0
+Facebook,Product Manager,Masters,0
+Netflix,Consultant,Bachelors,0
+Facebook,Sales Executive,PhD,0
+Microsoft,Sales Executive,Bachelors,0
+Google,HR Specialist,Masters,1
+Tesla,Software Engineer,Masters,0
+Amazon,Consultant,Masters,0
+Facebook,HR Specialist,Bachelors,1
+Apple,Software Engineer,Bachelors,0
+Facebook,HR Specialist,Masters,1
+Apple,Product Manager,Bachelors,0
+Microsoft,Consultant,Bachelors,1
+Apple,Marketing Lead,Masters,1
+IBM,Sales Executive,Bachelors,1
+Amazon,HR Specialist,PhD,1
+Google,Product Manager,PhD,0
+Apple,Software Engineer,PhD,1
+Apple,Software Engineer,PhD,0
+Google,Sales Executive,Masters,0
+Amazon,Data Scientist,Masters,0
+Facebook,HR Specialist,Masters,1
+Apple,Consultant,PhD,0
+Google,Business Manager,PhD,1
+IBM,Software Engineer,Bachelors,1
+IBM,Consultant,Bachelors,1
+Microsoft,Consultant,PhD,1
+Google,Marketing Lead,PhD,0
+Microsoft,Consultant,PhD,0
+IBM,Consultant,PhD,0
+Amazon,Marketing Lead,Bachelors,0
+Facebook,Software Engineer,PhD,0
+Google,Consultant,Bachelors,0
+Tesla,Data Scientist,PhD,0
+IBM,Data Scientist,PhD,1
+IBM,Product Manager,PhD,1
+Tesla,Marketing Lead,Bachelors,0
+Netflix,Product Manager,Bachelors,1
+IBM,Marketing Lead,Masters,0
+Apple,HR Specialist,PhD,0
+Amazon,HR Specialist,Masters,1
+Google,Consultant,Masters,0
+Tesla,Business Manager,Bachelors,0
+Apple,HR Specialist,Bachelors,1
+Tesla,Business Manager,Masters,1
+Google,HR Specialist,PhD,1
+Microsoft,Sales Executive,Bachelors,1
+Google,HR Specialist,PhD,1
+Netflix,Product Manager,PhD,0
+Google,Software Engineer,Masters,0
+Google,Consultant,Masters,0
+Netflix,Product Manager,Masters,0
+Amazon,Software Engineer,Masters,1
+IBM,Data Scientist,Bachelors,0
+Google,Product Manager,Bachelors,1
+Netflix,Data Scientist,Masters,1
+Apple,Business Manager,Bachelors,1
+Microsoft,Business Manager,Masters,1
+Microsoft,Sales Executive,PhD,1
+Google,HR Specialist,PhD,0
+Amazon,Product Manager,PhD,1
+Amazon,Data Scientist,Masters,0
+Apple,Software Engineer,PhD,1
+Google,Business Manager,Bachelors,0
+Microsoft,HR Specialist,PhD,1
+Amazon,Business Manager,PhD,1
+Google,Software Engineer,PhD,0
+Tesla,HR Specialist,Bachelors,0
+Amazon,HR Specialist,Masters,1
+Netflix,Data Scientist,Bachelors,0
+Tesla,Data Scientist,Masters,1
+IBM,Product Manager,Masters,1
+Amazon,Product Manager,PhD,0
+Microsoft,Marketing Lead,Masters,0
+Facebook,Consultant,Bachelors,0
+Tesla,Marketing Lead,Bachelors,1
+IBM,Sales Executive,Masters,0
+Apple,Business Manager,PhD,1
+Apple,Product Manager,PhD,0
+Microsoft,Data Scientist,Bachelors,1
+Amazon,Software Engineer,PhD,1
+Google,Data Scientist,Masters,1
+Amazon,Business Manager,Masters,0
+Microsoft,Marketing Lead,Bachelors,1
+Apple,Data Scientist,Masters,1
+Amazon,Consultant,Bachelors,1
+Apple,Sales Executive,Masters,1
+Tesla,Business Manager,Bachelors,0
+IBM,Marketing Lead,PhD,0
+Google,Consultant,Masters,1
+Tesla,Software Engineer,Masters,0
+Apple,Marketing Lead,Bachelors,1
+Apple,HR Specialist,Bachelors,1
+Facebook,Consultant,Masters,0
+Facebook,Consultant,Bachelors,1
+Tesla,Sales Executive,Masters,0
+Netflix,Business Manager,PhD,1
+Tesla,Software Engineer,Bachelors,1
+Facebook,Sales Executive,Masters,1
+Apple,Marketing Lead,PhD,0
+Microsoft,Sales Executive,PhD,0
+Tesla,Consultant,Masters,1
+Apple,Business Manager,Bachelors,1
+Microsoft,Product Manager,Masters,1
+Microsoft,Sales Executive,PhD,0
+Facebook,HR Specialist,Masters,0
+Tesla,Sales Executive,Bachelors,0
+Amazon,Marketing Lead,PhD,1
+Google,Marketing Lead,Masters,0
+Facebook,Software Engineer,Bachelors,0
+Facebook,Marketing Lead,PhD,1
+Amazon,Data Scientist,Bachelors,0
+Google,Business Manager,PhD,1
+Apple,Business Manager,Masters,1
+Netflix,Product Manager,Bachelors,1
+Tesla,Product Manager,PhD,0
+Netflix,Business Manager,Bachelors,0
+Apple,HR Specialist,Bachelors,1
+IBM,Product Manager,Masters,1
+Facebook,Software Engineer,Bachelors,1
+Google,Marketing Lead,PhD,0
+Facebook,Business Manager,PhD,1
+Microsoft,Consultant,PhD,1
+Facebook,Product Manager,PhD,1
+Facebook,Business Manager,Masters,1
+Apple,Data Scientist,Bachelors,1
+Apple,Sales Executive,Masters,1
+Apple,Marketing Lead,Bachelors,0
+Netflix,Business Manager,Bachelors,0
+Microsoft,Sales Executive,Bachelors,0
+IBM,Product Manager,Masters,0
+IBM,Sales Executive,Bachelors,0
+Apple,Marketing Lead,Masters,0
+Google,Business Manager,PhD,0
+Netflix,Data Scientist,PhD,0
+Amazon,HR Specialist,Bachelors,1
+Google,Product Manager,Masters,1
+Tesla,Business Manager,PhD,0
+Tesla,Marketing Lead,Masters,1
+Google,Product Manager,Masters,1
+Apple,Software Engineer,Bachelors,0
+Amazon,Sales Executive,PhD,0
+Amazon,HR Specialist,Bachelors,1
+Netflix,Marketing Lead,Bachelors,1
+Amazon,Software Engineer,PhD,1
+Tesla,Consultant,PhD,0
+Microsoft,Business Manager,Masters,0
+Apple,Data Scientist,PhD,0
+Amazon,Product Manager,Masters,0
+Netflix,Sales Executive,Masters,0
+Tesla,Product Manager,Masters,0
+Microsoft,HR Specialist,PhD,1
+Facebook,Business Manager,Bachelors,1
+Facebook,Product Manager,Masters,0
+Microsoft,Sales Executive,Bachelors,1
+Tesla,Business Manager,Bachelors,0
+Netflix,Product Manager,PhD,0
+Microsoft,Data Scientist,Bachelors,0
+Apple,Marketing Lead,Bachelors,1
+Apple,Business Manager,PhD,1
+Facebook,Marketing Lead,Masters,1
+Amazon,Consultant,Bachelors,0
+Netflix,Business Manager,PhD,1
+Facebook,Data Scientist,Bachelors,0
+Amazon,Marketing Lead,Bachelors,1
+Amazon,Software Engineer,Masters,1
+IBM,Sales Executive,Bachelors,0
+Apple,Software Engineer,PhD,1
+Tesla,Product Manager,Bachelors,1
+Google,Data Scientist,Masters,0
+Tesla,Software Engineer,Masters,1
+Google,Business Manager,PhD,0
+Microsoft,Product Manager,Masters,1
+Apple,Product Manager,Bachelors,1
+Amazon,Software Engineer,Masters,1
+Netflix,Consultant,PhD,1
+Google,Software Engineer,Masters,1
+Tesla,Consultant,Masters,0
+Amazon,Data Scientist,Masters,1
+Google,Sales Executive,PhD,0
+Google,Software Engineer,Masters,0
+IBM,HR Specialist,Masters,0
+Google,Consultant,Bachelors,0
+Netflix,Software Engineer,PhD,1
+Apple,Marketing Lead,Masters,0
+Netflix,Business Manager,PhD,1
+Facebook,HR Specialist,Masters,0
+Amazon,HR Specialist,Masters,0
+Apple,Consultant,Masters,1
+IBM,Marketing Lead,Bachelors,0
+Apple,Marketing Lead,Bachelors,0
+Apple,Product Manager,Bachelors,1
+Tesla,Consultant,PhD,0
+Apple,Sales Executive,PhD,1
+IBM,Business Manager,Bachelors,0
+Netflix,Data Scientist,PhD,0
+Apple,HR Specialist,Masters,1
+Microsoft,Data Scientist,Masters,0
+Amazon,Software Engineer,Masters,0
+Apple,Software Engineer,Bachelors,0
+Amazon,Data Scientist,PhD,0
+Microsoft,Software Engineer,Bachelors,1
+Microsoft,Sales Executive,PhD,0
+Amazon,Marketing Lead,Masters,1
+Google,Software Engineer,Bachelors,1
+Facebook,Product Manager,PhD,0
+Tesla,Software Engineer,PhD,1
+Google,Business Manager,Masters,0
+Google,Sales Executive,Bachelors,1
+Netflix,Business Manager,Bachelors,0
+Tesla,Business Manager,Bachelors,1
+Tesla,Product Manager,Masters,0
+Google,Sales Executive,Bachelors,0
+Apple,Sales Executive,Masters,1
+Netflix,Consultant,Masters,1
+Netflix,Sales Executive,Masters,0
+Microsoft,Sales Executive,PhD,0
+IBM,Sales Executive,Bachelors,1
+Tesla,Product Manager,Bachelors,1
+Google,Software Engineer,Masters,1
+Microsoft,Consultant,Masters,1
+Amazon,Business Manager,Bachelors,1
+Facebook,Sales Executive,Masters,1
+IBM,HR Specialist,Bachelors,0
+IBM,Software Engineer,PhD,0
+IBM,Software Engineer,Masters,1
+Netflix,Business Manager,Bachelors,1
+Amazon,Product Manager,Masters,0
+IBM,Data Scientist,Bachelors,0
+Amazon,Data Scientist,Bachelors,1
+Apple,Software Engineer,Masters,1
+IBM,Marketing Lead,PhD,0
+Facebook,Marketing Lead,Bachelors,0
+Amazon,Business Manager,Bachelors,0
+Amazon,Data Scientist,Bachelors,0
+Facebook,Software Engineer,PhD,0
+IBM,Product Manager,PhD,0
+Facebook,Data Scientist,Masters,1
+Amazon,Software Engineer,PhD,0
+Facebook,Software Engineer,Masters,1
+Amazon,Sales Executive,Masters,1
+Amazon,Product Manager,PhD,0
+Apple,Sales Executive,Masters,1
+Google,Business Manager,PhD,0
+Amazon,Sales Executive,Masters,1
+IBM,HR Specialist,PhD,0
+Microsoft,Sales Executive,PhD,1
